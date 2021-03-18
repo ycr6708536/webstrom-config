@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="wxss" type="SCSS" />
+      <mapping ext="wxml" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
