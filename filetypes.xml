@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="wxss" type="SCSS" />
-      <mapping ext="wxml" type="Vue.js" />
+      <removed_mapping ext="wxml" approved="true" type="Vue.js" />
+      <removed_mapping ext="wxss" approved="true" type="SCSS" />
     </extensionMap>
   </component>
 </application>
