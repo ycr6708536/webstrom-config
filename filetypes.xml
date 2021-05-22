@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="wxss" type="SCSS" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
       <removed_mapping ext="wxml" approved="true" type="Vue.js" />
-      <removed_mapping ext="wxss" approved="true" type="SCSS" />
+      <removed_mapping ext="wxss" approved="true" type="WXSS" />
     </extensionMap>
   </component>
 </application>
