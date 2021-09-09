@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="propertyValueQueue.js" type="JavaScript" />
       <mapping ext="1%20%e5%8d%8f%e5%90%8c%e4%bb%93%e5%ba%93%e5%ad%98-%e5%b7%b2%e7%ad%be%e7%ba%a6%e3%80%81%e5%b7%b2%e7" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="SCSS" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
